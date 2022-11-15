@@ -6,7 +6,7 @@
 
 ## Introduction
 
-![](img/index.jpg) 
+![](img/frame230.jpg) 
 
 This project combines **YOLOv2**([reference](https://arxiv.org/abs/1506.02640)) and **seq-nms**([reference](https://arxiv.org/abs/1602.08465)) to realise **real time video detection**.
 
