@@ -15,6 +15,7 @@ This project combines **YOLOv2**([reference](https://arxiv.org/abs/1506.02640)) 
 
 1. Open a terminal.
 2. Create a virtual environment with python 2.7: 
+
   `conda create --name EnvExample python=2.7;`
   `conda activate EnvExample`;
 4. Download `yolo.weights` and `tiny-yolo.weights` by running `wget https://pjreddie.com/media/files/yolo.weights` and `wget https://pjreddie.com/media/files/tiny-yolo-voc.weights`;
