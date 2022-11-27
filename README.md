@@ -11,7 +11,7 @@
 This project combines **YOLOv2**([reference](https://arxiv.org/abs/1506.02640)) and **seq-nms**([reference](https://arxiv.org/abs/1602.08465)) to realise **real time video detection**.
 [Tutorial develop for Ubuntu]. 
 
-`The lines attached under this colour in this repository are for running under the Ubuntu terminal.`.
+`The lines attached under this colour in this repository are for running under the Ubuntu terminal.`
 
 ## Steps
 
