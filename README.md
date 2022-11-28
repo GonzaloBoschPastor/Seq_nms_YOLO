@@ -21,12 +21,14 @@ This project combines **YOLOv2**([reference](https://arxiv.org/abs/1506.02640)) 
   * `conda create --name EnvExample python=2.7`.
   * `conda activate EnvExample`.
   
-3. Clone the repository:
+3. Clone the github repository in the folder you would like to have the project:
 
   * `git clone https://github.com/carlosjimenezmwb/seq_nms_yolo.git`.
   
-4. Make the project:
+4. Go inside the project:
   * `cd seq_nms_yolo`.
+  
+5. Make the proyect using the command:
   * `make`.
 
 5. Download the yolo.weights and tiny-yolo.weights:
