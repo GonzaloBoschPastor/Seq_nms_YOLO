@@ -18,7 +18,7 @@ This project combines **YOLOv2**([reference](https://arxiv.org/abs/1506.02640)) 
 1. Open a terminal.
 2. Create a virtual environment with python 2.7: 
 
-  * `conda create --name EnvExample python=2.7`.
+   * `conda create --name EnvExample python=2.7`.
   * `conda activate EnvExample`.
   
 3. Clone the github repository in the folder you would like to have the project:
