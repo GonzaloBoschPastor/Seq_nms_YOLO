@@ -19,21 +19,21 @@ This project combines **YOLOv2**([reference](https://arxiv.org/abs/1506.02640)) 
 2. Create a virtual environment with python 2.7: 
 
    * `conda create --name EnvExample python=2.7`.
-  * `conda activate EnvExample`.
+   * `conda activate EnvExample`.
   
 3. Clone the github repository in the folder you would like to have the project:
 
-  * `git clone https://github.com/carlosjimenezmwb/seq_nms_yolo.git`.
+    * `git clone https://github.com/carlosjimenezmwb/seq_nms_yolo.git`.
   
 4. Go inside the project:
-  * `cd seq_nms_yolo`.
+    * `cd seq_nms_yolo`.
   
 5. Make the proyect using the command:
-  * `make`.
+    * `make`.
 
 6. Download the yolo.weights and tiny-yolo.weights:
-  * `wget https://pjreddie.com/media/files/yolo.weights`.
-  * `wget https://pjreddie.com/media/files/yolov2-tiny.weights`.
+    * `wget https://pjreddie.com/media/files/yolo.weights`.
+    * `wget https://pjreddie.com/media/files/yolov2-tiny.weights`.
   
 7. You must have the following libraries installed (with indicated versions)
   * cv2 `pip install opencv-python==4.2.0.32`.
